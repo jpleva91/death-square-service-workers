@@ -1,0 +1,16 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inline.4c2c9323edd172b7643a.bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
